@@ -11,7 +11,7 @@ group :development do
   gem 'rexml', '~> 3.2.5'
   gem 'vcr'
   gem 'webmock'
-  gem 'webrick', '~> 1.7.0'
+  gem 'webrick', '~> 1.8.0'
 
   gem 'rubocop', '~> 1.8', :require => false
   gem 'rubocop-performance', :require => false
